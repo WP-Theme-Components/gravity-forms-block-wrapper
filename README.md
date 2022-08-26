@@ -1,1 +1,3 @@
-# gravity-forms-block-wrapper
+# Gravity Forms Block Wrapper
+
+Wrap a Gravity Forms form in a block, for formatting
